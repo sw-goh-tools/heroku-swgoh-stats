@@ -8,6 +8,7 @@ The free version of Heroku is limited on how much data it can deliver at one tim
 
 SWGOH Stats requires a volume in order to save the updated gameData.json file. If you do not set up some type of storage option you must keep the Dyno it is on from going to sleep. You only get 500 hours for using SWGOH Comlink each month, so you must add a credit card to your account to increase it to 900 hours which would allow for it to run 24/7 if needed. Once a credit card has been provided you can search for a free [Heroku Add-on](https://elements.heroku.com/addons/) that will continuously keep your dyno awake. [New Relic APM](https://elements.heroku.com/addons/newrelic) is a good option to try.
 
+It is highly recommended to create a separate Heroku account to use with SWGOH Stats especially if you are running it without a volume attached to it.
 
 ## Deploy steps
 #### 1. Click the button below.
