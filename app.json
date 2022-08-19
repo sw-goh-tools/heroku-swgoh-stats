@@ -1,7 +1,7 @@
 {
   "name": "swgoh-stats",
   "description": "Calculate stats for SWGOH units",
-  "repository": "https://github.com/sw-goh-tools/heroku-swgoh-stats",
+  "repository": "https://github.com/swgoh-utils/heroku-swgoh-stats",
   "keywords": ["docker"],
   "stack": "container"
 }
