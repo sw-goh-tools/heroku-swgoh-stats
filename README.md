@@ -1,7 +1,7 @@
 # Deploy SWGOH Stats to Heroku
 This repo is used to create a quick and easy way to deploy and update SWGOH Stats on Heroku using GitHub.
 
-SWGOH Stats was designed to calculate stats for units obtained from [SWGOH Comlink](https://gitlab.com/swgoh-tools/swgoh-comlink) or any other API that can retrieve player data for Star Wars Galaxy of Heroes. Visit the main [SWGOH Stats repo on GitLab](https://gitlab.com/swgoh-tools/swgoh-stats) to learn more about what SWGOH Stats is and how to use it. If you are interested in using it with SWGOH Comlink you can use the following link to quickly set it up on Heroku: [sw-goh-tools/heroku-swgoh-comlink](https://github.com/sw-goh-tools/heroku-swgoh-stats).
+SWGOH Stats was designed to calculate stats for units obtained from [SWGOH Comlink](https://gitlab.com/swgoh-tools/swgoh-comlink) or any other API that can retrieve player data for Star Wars Galaxy of Heroes. Visit the main [SWGOH Stats repo on GitLab](https://gitlab.com/swgoh-tools/swgoh-stats) to learn more about what SWGOH Stats is and how to use it. If you are interested in using it with SWGOH Comlink you can use the following link to quickly set it up on Heroku: [swgoh-utils/heroku-swgoh-comlink](https://github.com/swgoh-utils/heroku-swgoh-stats).
 
 ### Limitations
 The free version of Heroku is limited on how much data it can deliver at one time. This is mainly an issue when connecting to a SWGOH Comlink on Heroku so additional steps may need to be taken.
@@ -12,7 +12,7 @@ It is highly recommended to create a separate Heroku account to use with SWGOH S
 
 ## Deploy steps
 #### 1. Click the button below.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsw-goh-tools%2Fheroku-swgoh-stats&template=https%3A%2F%2Fgithub.com%2Fsw-goh-tools%2Fheroku-swgoh-stats)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fswgoh-utils%2Fheroku-swgoh-stats&template=https%3A%2F%2Fgithub.com%2Fswgoh-utils%2Fheroku-swgoh-stats)
 
 #### 2. Create the application with a unique name and press `Deploy app` button.
 
