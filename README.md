@@ -1,7 +1,7 @@
 # Deploy SWGOH Stats to Heroku
 This repo is used to create a quick and easy way to deploy and update SWGOH Stats on Heroku using GitHub.
 
-SWGOH Stats was designed to calculate stats for units obtained from [SWGOH Comlink](https://gitlab.com/swgoh-tools/swgoh-comlink) or any other API that can retrieve player data for Star Wars Galaxy of Heroes. Visit the main [SWGOH Stats repo on GitLab](https://gitlab.com/swgoh-tools/swgoh-stats) to learn more about what SWGOH Stats is and how to use it. If you are interested in using it with SWGOH Comlink you can use the following link to quickly set it up on Heroku: [swgoh-utils/heroku-swgoh-comlink](https://github.com/swgoh-utils/heroku-swgoh-stats).
+SWGOH Stats was designed to calculate stats for units obtained from [SWGOH Comlink](https://gitlab.com/swgoh-tools/swgoh-comlink) or any other API that can retrieve player data for Star Wars Galaxy of Heroes. Visit the main [SWGOH Stats repo on GitLab](https://gitlab.com/swgoh-tools/swgoh-stats) to learn more about what SWGOH Stats is and how to use it. If you are interested in using it with SWGOH Comlink you can use the following link to quickly set it up on Heroku: [swgoh-utils/heroku-swgoh-comlink](https://github.com/swgoh-utils/heroku-swgoh-comlink).
 
 ### Limitations
 The free version of Heroku is limited on how much data it can deliver at one time. This is mainly an issue when connecting to a SWGOH Comlink on Heroku so additional steps may need to be taken.
