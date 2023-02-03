@@ -1,7 +1,7 @@
 # Deploy SWGOH Stats to a hosting service
 This repo is used to create a quick and easy way to deploy and update SWGOH Stats using GitHub.
 
-SWGOH Stats was designed to calculate stats for units obtained from [SWGOH Comlink](https://github.com/swgoh-utils/swgoh-comlink) or any other API that can retrieve player data for Star Wars Galaxy of Heroes. Visit the main [SWGOH Stats repo](https://github.com/swgoh-utils/swgoh-stats) to learn more about what SWGOH Stats is and how to use it. If you are interested in using it with SWGOH Comlink or wouldlike to see more details on getting this working on specific hosting sites you can use the following link: [swgoh-utils/heroku-swgoh-comlink](https://github.com/swgoh-utils/heroku-swgoh-comlink).
+SWGOH Stats was designed to calculate stats for units obtained from [SWGOH Comlink](https://github.com/swgoh-utils/swgoh-comlink) or any other API that can retrieve player data for Star Wars Galaxy of Heroes. Visit the main [SWGOH Stats repo](https://github.com/swgoh-utils/swgoh-stats) to learn more about what SWGOH Stats is and how to use it. If you are interested in using it with SWGOH Comlink or wouldlike to see more details on getting this working on specific hosting sites you can use the following link: [swgoh-utils/deploy-swgoh-comlink](https://github.com/swgoh-utils/deploy-swgoh-comlink).
 
 ### Limitations
 SWGOH Stats requires a volume in order to save the updated gameData.json file. If you do not set up some type of storage option you must keep the application from going to sleep. 
