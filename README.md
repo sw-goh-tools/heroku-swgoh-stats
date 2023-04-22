@@ -59,7 +59,7 @@ NOTE: These instructions assume you have a working, publicly available instance 
 
 4. Inside the project, click the `+ New` button in the top right, and select `GitHub Repo` --> `Configure GitHub App`, and log into your GitHub account
 
-5. Under `Repository Access`, select `Only select repositories`, then use the dropdown to select the comlink repository you created. Click the green `Save` button and exit the pop up window.
+5. Under `Repository Access`, select `Only select repositories`, then use the dropdown to select the stats repository you created. Click the green `Save` button and exit the pop up window.
 
 6. In your Railway project, click `+ New` again, then `GitHub Repo`, then the name of the repository you created. A new deployment with a random name will appear in the Project window.
 
