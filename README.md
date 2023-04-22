@@ -49,7 +49,7 @@ If no data path is set the updated gameData file will be removed when the applic
 
 ### Deploying with Railway (railway.app)
 
-NOTE: These instructions assume you have a working, publicly available instance of Comlink running. You will need the web URL or IP address of that instance to set up SWGOH Stats. If you need to set up a comlink instance, I highly recommend using [deploy-swgoh-comlink](https://github.com/swgoh-utils/swgoh-comlink) - there is a guide there for deploying to Railway as well!
+NOTE: These instructions assume you have a working, publicly available instance of Comlink running. You will need the web URL or IP address of that instance to set up SWGOH Stats. If you need to set up a comlink instance, you may also use [deploy-swgoh-comlink](https://github.com/swgoh-utils/swgoh-comlink) - there is a guide there for deploying to Railway as well!
 
 1. Download a copy of the files in this repository to your local machine; unzip the download and grab the `Dockerfile` and the `app.json` file (For simplicity, you can discard the README and heroku.yml files if you like.)
 
